@@ -48,6 +48,19 @@ NyayaAI is a full-stack legal assistant that helps citizens, students, and profe
 - **CI/CD**: GitHub Actions (lint → test → build → docker)
 
 ---
+## Preview
+
+| Home Page | New Chat Window |
+|------|------|
+| <img src="screenshots/home.png" width="450"> | <img src="screenshots/chat.png" width="450"> |
+
+| Query | IPC to BNS Lookup |
+|------|------|
+| <img src="screenshots/query.png" width="450"> | <img src="screenshots/lookup.png" width="450"> |
+
+---
+
+---
 
 ## Quick Start
 
